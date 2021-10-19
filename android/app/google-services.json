@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "656369640473",
+    "firebase_url": "https://school-test-app-be104.firebaseio.com",
+    "project_id": "school-test-app-be104",
+    "storage_bucket": "school-test-app-be104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656369640473:android:1cea9e60cd12b3a542b688",
+        "android_client_info": {
+          "package_name": "com.keval.attendance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656369640473-bo2ag5rquq8nbi7g7omfj79ult7cnqoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keval.attendance_app",
+            "certificate_hash": "45fc7611e6daa92a6cd3ae4bd6cc7aa2155dd50b"
+          }
+        },
+        {
+          "client_id": "656369640473-jd5c0lru1ul5cea8cfh16bsjsifd82tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keval.attendance_app",
+            "certificate_hash": "707908ad079d5a41fccc9d58f6daa634a589c3f1"
+          }
+        },
+        {
+          "client_id": "656369640473-r6t750jopsivb4of6t08v3am3c4nj0ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI4wwm5AMN-E-s8WAeGTKmHZ4tj_rIc3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656369640473-r6t750jopsivb4of6t08v3am3c4nj0ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
