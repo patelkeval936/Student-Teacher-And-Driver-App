@@ -3,3 +3,4 @@
 /.flutter-plugins-dependencies
 /.packages
 /test
+/android/app/google-services.json
